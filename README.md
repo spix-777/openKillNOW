@@ -15,7 +15,7 @@ signal.h: for the popen function
 
 Usage:
 
-To use the program, simply compile it and run the executable. The GeForceNOW app will be opened and then killed after a few seconds.
+To use the program, simply compile it and run the executable. The GeForceNOW app will be opened and then killed after a close it.
 
 Copy code
 g++ openKillNOW.cpp -o gfn-killer
